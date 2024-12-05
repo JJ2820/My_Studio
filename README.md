@@ -9,3 +9,6 @@ Features
     Follows RESTful Standards with meaningful responses for success and errors.
 
 
+
+
+Reference from previous project : https://github.com/JJ2820/Go_projects/tree/main/go-bookstore
